@@ -1,4 +1,4 @@
-这是https://github.com/DataTalksClub/llm-zoomcamp的课程笔记总结
+这是[DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)的课程笔记总结
 
 1. 构建环境    
 在磁盘里新建一个空白文件夹并进行初始配置   
