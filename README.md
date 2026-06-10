@@ -19,6 +19,8 @@ uv add requests minsearch openai jupyter python-dotenv
 练习使用的是Agnes的Text模型，目前是免费的。   
 
 4. 先看notebook step-by-step.ipynb可以得到分步流程    
-   notebook- oop.py是跟ingest.py及rag_helper.py搭配使用的   
+   notebook- oop.py是跟ingest.py及rag_helper.py搭配使用的
+
+5. 作业文档统一命名为homework*.ipynb.每个代码块对应一题的解答方式
 
    
